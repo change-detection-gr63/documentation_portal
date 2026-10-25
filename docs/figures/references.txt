@@ -1,0 +1,97 @@
+CAST-CD — Complete bibliography from the final paper
+
+[1] R. J. Radke, S. Andra, O. Al-Kofahi, and B. Roysam, “Image change detection algorithms: A systematic survey,” IEEE Transactions on Image Processing, vol. 14, no. 3, pp. 294–307, 2005.
+
+[2] D. Lu, P. Mausel, E. Brondizio, and E. Moran, “Change detection techniques,” International Journal of Remote Sensing, vol. 25, no. 12, pp. 2365–2401, 2004.
+
+[3] A. Singh, “Review of article digital change detection techniques using remotely-sensed data,” International Journal of Remote Sensing, vol. 10, no. 6, pp. 989–1003, 1989.
+
+[4] P. Coppin, I. Jonckheere, K. Nackaerts, B. Muys, and E. Lambin, “Digital change detection methods in ecosystem monitoring: A review,” International Journal of Remote Sensing, vol. 25, no. 9, pp. 1565–1596, 2004.
+
+[5] A. P. Tewkesbury, A. J. Comber, N. J. Tate, A. Lamb, and P. F. Fisher, “A critical synthesis of remotely sensed optical image change detection techniques,” International Journal of Remote Sensing, vol. 36, no. 15, pp. 3871–3915, 2015.
+
+[6] M. Hussain, D. Chen, A. Cheng, H. Wei, and D. Stanley, “Change detection from remotely sensed images: From pixel-based to object-based approaches,” International Journal of Remote Sensing, vol. 34, no. 10, pp. 3318–3341, 2013.
+
+[7] R. E. Kennedy et al., “Bringing an ecological view of change to Landsat-based remote sensing,” Remote Sensing of Environment, vol. 143, pp. 336–347, 2014.
+
+[8] Z. Lv, T. Liu, C. Shi, J. A. Benediktsson, and H. Du, “Land cover change detection techniques: Very high resolution optical images: A review,” IEEE Geoscience and Remote Sensing Magazine, vol. 10, no. 1, pp. 44–63, 2022.
+
+[9] X. X. Zhu et al., “Deep learning in remote sensing: A comprehensive review and list of resources,” IEEE Geoscience and Remote Sensing Magazine, vol. 5, no. 4, pp. 8–36, 2017.
+
+[10] G. Camps-Valls et al., “Advances in machine learning for remote sensing and geosciences,” IEEE Geoscience and Remote Sensing Magazine, vol. 4, no. 2, pp. 58–62, 2016.
+
+[11] L. Ma et al., “Deep learning in remote sensing applications: A meta-analysis and review,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 152, pp. 166–177, 2019.
+
+[12] A. Shafique et al., “Deep learning for satellite image change detection: A comprehensive review,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 183, pp. 240–264, 2022.
+
+[13] A. Asokan and J. Anitha, “Change detection techniques for remote sensing applications: A review,” Neural Computing and Applications, vol. 31, no. 10, pp. 6271–6292, 2019.
+
+[14] S. Rahman et al., “A review of change detection methods based on deep learning,” IEEE Access, vol. 9, pp. 13200–13215, 2021.
+
+[15] R. Caye Daudt, B. Le Saux, and A. Boulch, “Fully convolutional siamese networks for change detection,” in Proc. IEEE International Conference on Image Processing (ICIP), 2018, pp. 4063–4067.
+
+[16] R. Caye Daudt et al., “Multitask learning for large-scale semantic change detection,” Remote Sensing, vol. 11, no. 15, p. 1733, 2019.
+
+[17] D. Peng, Y. Zhang, and H. Guan, “End-to-end change detection for high resolution satellite images using improved UNet++,” Remote Sensing, vol. 11, no. 11, p. 1382, 2019.
+
+[18] Y. Wu, L. Gao, and W. Liao, “A novel siamese neural network for semantic change detection in high-resolution images,” IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 7, pp. 5865–5879, 2021.
+
+[19] L. Mou, L. Bruzzone, and X. X. Zhu, “Learning spectral-spatial-temporal features via a recurrent convolutional neural network for change detection in multispectral imagery,” IEEE Transactions on Geoscience and Remote Sensing, vol. 57, no. 2, pp. 924–935, 2019.
+
+[20] H. Chen et al., “A deep siamese convolutional multiple-layers recurrent neural network for change detection,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 3178–3189, 2021.
+
+[21] H. Kusetogullari et al., “Unsupervised change detection in multispectral satellite images using a deep learning framework,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 173, pp. 150–164, 2021.
+
+[22] J. Geng et al., “A deep learning framework for change detection in multispectral imagery,” Neural Computing and Applications, vol. 33, pp. 455–472, 2021.
+
+[23] O. Ronneberger, P. Fischer, and T. Brox, “U-Net: Convolutional networks for biomedical image segmentation,” in Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2015, pp. 234–241.
+
+[24] H. Chen and Z. Shi, “A spatial-temporal attention-based method and a new dataset for remote sensing image change detection,” Remote Sensing, vol. 12, no. 10, p. 1662, 2020.
+
+[25] H. Chen, Z. Qi, and Z. Shi, “Remote sensing image change detection with transformers,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1–14, 2022.
+
+[26] P. Zhang, Q. Shi, X. Liu, and Y. Lei, “DMINet: Dual-branch multilevel intertemporal network for change detection,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1–15, 2022.
+
+[27] Q. Shi, M. Liu, S. Li, and Z. Li, “A deeply supervised attention metric-based network and local–global pyramid feature fusion for change detection,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1–16, 2022.
+
+[28] J. Zhao et al., “Spatial-temporal attention-aware learning for change detection in remote sensing imagery,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 2634–2645, 2022.
+
+[29] L. Hao et al., “A siamese based spatial-temporal attention network for change detection,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 222–232, 2021.
+
+[30] X. Wang, Y. Lei, and Z. Shi, “An attention-based dual-branch network for change detection,” IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1–5, 2022.
+
+[31] S. Fang, K. Li, J. Shao, and Z. Li, “SNUNet-CD: A densely connected siamese network for change detection of VHR images,” IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1–5, 2022.
+
+[32] Y. Xu, Z. Wang, X. Lu, and X. Ma, “FCCDN: Feature constraint network for VHR image change detection,” IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1–5, 2021.
+
+[33] W. G. C. Bandara and V. M. Patel, “A transformer-based siamese network for change detection,” in IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2022, pp. 207–210.
+
+[34] Z. Zheng, A. Ma, L. Zhang, and Y. Zhong, “Change is everywhere: Single-temporal supervised object change detection in remote sensing imagery,” in Proc. IEEE International Conference on Computer Vision (ICCV), 2021, pp. 15193–15202.
+
+[35] Z. Zheng, Y. Zhong, S. Tian, A. Ma, and L. Zhang, “ChangeMask: Deep multi-task encoder-transformer-decoder architecture for semantic change detection,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 183, pp. 228–239, 2022.
+
+[36] J. Zhang, Z. Yan, and S. Ma, “Multi-scale cross dual attention network for building change detection in remote sensing images,” Journal of Geo-Information Science, vol. 25, no. 11, pp. 2221–2233, 2023.
+
+[37] A. Codegoni, G. Lombardi, and A. Ferrari, “TinyCD: A (not so) deep learning model for change detection,” Neural Computing and Applications, vol. 35, no. 11, pp. 8471–8486, 2023.
+
+[38] Z. Li et al., “A lightweight network for building change detection from VHR imagery,” IEEE Geoscience and Remote Sensing Letters, vol. 18, pp. 156–160, 2021.
+
+[39] Z. Li, C. Tang, X. Liu, W. Zhang, J. Dou, L. Wang, and A. Y. Zomaya, “Lightweight remote sensing change detection with progressive feature aggregation and supervised attention,” IEEE Transactions on Geoscience and Remote Sensing, vol. 61, Art. no. 5602812, pp. 1–12, 2023.
+
+[40] Q. Wang, X. Zhang, J. Shi, and Y. Lei, “Self-supervised remote sensing image change detection at pixel level,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 8415–8425, 2021.
+
+[41] S. Ji, S. Wei, and M. Lu, “Fully convolutional networks for multisource building extraction from an open aerial and satellite imagery data set,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 151, pp. 78–90, 2019.
+
+[42] C. Zhang, P. Yue, D. Tapete, L. Jiang, B. Shangguan, L. Huang, and G. Liu, “A deeply supervised image fusion network for change detection in high resolution bi-temporal remote sensing images,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 166, pp. 183–200, 2020.
+
+[43] M. Liu et al., “Dual-task semantic change detection for remote sensing images,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 1548–1560, 2021.
+
+[44] N. Abraham and N. M. Khan, “A novel focal tversky loss function with improved attention U-Net for lesion segmentation,” in Proc. IEEE 16th International Symposium on Biomedical Imaging (ISBI), 2019, pp. 683–687.
+
+[45] M. Tan and Q. Le, “EfficientNet: Rethinking model scaling for convolutional neural networks,” in Proc. International Conference on Machine Learning (ICML), PMLR, 2019, vol. 97, pp. 6105–6114.
+
+[46] X. Wang, R. Girshick, A. Gupta, and K. He, “Non-local neural networks,” in Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 7794–7803.
+
+[47] J. Hu, L. Shen, and G. Sun, “Squeeze-and-excitation networks,” in Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 7132–7141.
+
+[48] T.-Y. Lin, P. Goyal, R. Girshick, K. He, and P. Dollar, “Focal loss for dense object detection,” in Proc. IEEE International Conference on Computer Vision (ICCV), 2017, pp. 2980–2988.
